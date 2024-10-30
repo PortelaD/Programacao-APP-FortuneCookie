@@ -16,7 +16,7 @@ FortuneCookie é um aplicativo simples onde o usuário pode "quebrar" um biscoit
 
 1. Clone este repositório:
 ```bash
-git clone 
+git clone https://github.com/PortelaD/Programacao-APP-FortuneCookie.git
 ```
 
 2. Instale as dependências:
